@@ -1,0 +1,1 @@
+﻿.\bin\Debug\net7.0\playwright.ps1 install
